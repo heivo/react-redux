@@ -23,6 +23,6 @@
 		"babel-preset-react": "^6.5.0"
 	},
 	"scripts": {
-		"start": "webpack -w"
+		"start": "webpack-dev-server"
 	}
 }
